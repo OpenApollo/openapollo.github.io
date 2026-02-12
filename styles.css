@@ -38,12 +38,21 @@ h2{
     margin-top:0px;
     margin-bottom:5px;
 }
-
+#mainText{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(104, 101, 101);
+}
 #repos{
+    margin-bottom: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-weight: bold;
 }
+
 
 #foot{
     background-color: rgb(34, 34, 34);   
@@ -78,4 +87,3 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     font-weight: bold;
     color:rgb(104, 101, 101);
 }
-
