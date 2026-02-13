@@ -74,6 +74,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 #copyright{
     text-align:center;
     color: rgb(80, 80, 80);
+    margin-bottom: 1px;
 }
 #circuitImg{
   display: block;
@@ -86,4 +87,11 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     text-align: center;
     font-weight: bold;
     color:rgb(104, 101, 101);
+}
+#pixabay,
+#pixabay:link,
+#pixabay:visited,
+#pixabay:hover,
+#pixabay:active {
+    color: rgb(80,80,80);
 }
