@@ -97,7 +97,7 @@ Android Apps
   https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
 
 License
--------
+--------
 Please read the full license text (OFL.txt) to understand the permissions,
 restrictions and requirements for usage, redistribution, and modification.
 
